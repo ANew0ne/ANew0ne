@@ -9,10 +9,10 @@ My telegram: @calmey
 
 <div id="badges">
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker Badge"/>
-  <img src="https://img.shields.io/badge/Django-red?style=for-the-badge&logo=Django&logoColor=white" alt="Django Badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL Badge"/>
-  <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
-  <img src="https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=Linux&logoColor=white" alt="Linux Badge"/>
+  <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=white" alt="Django Badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-darkblue?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL Badge"/>
+  <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+  <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&logoColor=white" alt="Linux Badge"/>
 
 </div>
 

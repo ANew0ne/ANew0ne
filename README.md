@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am a backend developer. Currently looking fot a job.
+I am a backend developer.
 
 My telegram: @calmey
 
